@@ -1,5 +1,4 @@
 # busca-cep
-
 [![Build Status](https://travis-ci.org/wagoid/busca-cep.svg?branch=master)](https://travis-ci.org/wagoid/busca-cep)
 [![Coverage Status](https://coveralls.io/repos/github/wagoid/busca-cep/badge.svg?branch=master)](https://coveralls.io/github/wagoid/busca-cep?branch=master)
 
